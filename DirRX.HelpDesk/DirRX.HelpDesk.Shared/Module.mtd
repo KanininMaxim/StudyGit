@@ -34,6 +34,25 @@
   "ExplorerTreeOrder": [
     {
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+<<<<<<< HEAD
+=======
+    },
+    {
+      "ItemId": "d13e005a-490e-4427-89e5-e53c4e51873f",
+      "PreviousItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+    },
+    {
+      "ItemId": "449be1b5-c1fe-4de0-9d14-3152f8664d5e",
+      "PreviousItemId": "d13e005a-490e-4427-89e5-e53c4e51873f"
+    },
+    {
+      "ItemId": "461e3651-a10b-4c6d-843a-67a6873b656b",
+      "PreviousItemId": "449be1b5-c1fe-4de0-9d14-3152f8664d5e"
+    },
+    {
+      "ItemId": "04f9e623-64f5-4bca-b4a4-30408ae431a8",
+      "PreviousItemId": "461e3651-a10b-4c6d-843a-67a6873b656b"
+>>>>>>> 1d60ba0 (Добавлен документ "Приложение к обращению")
     }
   ],
   "IconResourcesKeys": [],
